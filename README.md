@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=DoaKim0724)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdoa0724&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoaKim0724&show_icons=true&theme=dracula)
 [![DoaKim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DoaKim0724&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/DoaKim0724)
